@@ -1,0 +1,149 @@
+body{
+   background: white;
+   font-family: cursive;
+}
+section{
+    margin: 0;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    display: inline-block;
+
+
+}
+
+
+li{
+    display: inline-block;
+    text-align: center;
+    border: 1px solid;
+    border-color: black;
+    padding: 10px 15px;
+    width: 350px;
+    border-radius: 16px;
+
+  
+    
+}
+
+
+hr{
+   padding: 12px ;
+   background: linear-gradient(to left,orange,rgb(160, 13, 160),maroon);
+  border-color: white;
+   border-radius: 20px;
+}
+
+.tex{
+    text-align: center;
+    border: 1px solid;
+    border-radius: 20px;
+}
+
+
+
+.site{
+   font-family: monospace;
+    text-align: center;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.9);
+    color: blanchedalmond;
+    font-size: 50px;
+    border-radius: 20px;
+
+}
+
+h6{
+    color: white;
+    font-size: 10px;
+    font-family: cursive;
+}
+span{
+    color: yellow;
+    font-size: 10px;
+    font-family: cursive;
+}
+
+.u{
+
+    font-size: 60px;
+
+}
+
+.aa{
+    font-size: 60px;
+
+}
+
+
+.site:hover{
+    font-family: monospace;
+    text-align: center;
+    justify-content: center;
+    background: linear-gradient(to left,orange,rgb(160, 13, 160),maroon);
+    color: blanchedalmond;
+    font-size: 50px;
+    border-radius: 20px;
+
+}
+
+
+a{
+    text-decoration: none;
+    
+    
+    
+}
+
+
+.lin:hover{
+    display: inline-block;
+    text-align: center;
+    border: 1px solid;
+    border-color: black;
+    padding: 10px 15px;
+    width: 360px;
+    border-radius: 20px;
+    background: rgba(0, 0, 0, 0.9);
+
+
+
+}
+.lin2:hover{
+    display: inline-block;
+    text-align: center;
+    border: 1px solid;
+    border-color: black;
+    padding: 10px 15px;
+    width: 360px;
+    border-radius: 20px;
+    background: rgba(0, 0, 0, 0.9);
+
+
+
+}
+.lin3:hover{
+    display: inline-block;
+    text-align: center;
+    border: 1px solid;
+    border-color: black;
+    padding: 10px 15px;
+    width: 360px;
+    border-radius: 20px;
+    background: rgba(0, 0, 0, 0.9);
+
+
+
+}
+
+
+
+
+a:hover{
+    color: yellow;
+}
+
+
+@media(max-width:991px){
+
+}
